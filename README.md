@@ -1,2 +1,3 @@
 # datasciencecoursera
-Data Science on Coursera
+
+Data Science Course on Coursera through John Hopkins University
